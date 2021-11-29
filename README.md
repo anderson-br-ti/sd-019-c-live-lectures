@@ -1,2 +1,2 @@
-# sd-017-c-live-lectures
-Exercícios - Trybe - Turma 17 - Tribo C
+# sd-019-c-live-lectures
+Exercícios - Trybe - Turma 19 - Tribo C
